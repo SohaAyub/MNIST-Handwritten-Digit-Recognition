@@ -1,0 +1,2 @@
+model.save("../models/keras_model.keras")
+  
